@@ -1,0 +1,88 @@
+/*!
+ * Theme Name: Mich Starter
+ * Theme URI: https://github.com/michelventura/mich-starter.git
+ * Description: A starter theme for the Genesis Framework.
+ * Author: Michel Ventura
+ * Author URI: https://michelventura.com/
+ * Version: 1.0.0
+ * Text Domain: starter
+ * Template: genesis
+ * Template Version: 2.5.2
+ * License: GPL-2.0+
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+/* # Table of Contents
+
+- Utilities
+	- Variables
+	- Mixins
+	- Functions
+- Reset
+	- Baseline Normalize
+	- Box Sizing
+	- Float Clearing
+- Defaults
+	- Typography
+	- Headings
+	- Forms
+	- Objects
+	- Tables
+	- Accessibility
+- Layout
+	- Site Containers
+	- Content Width
+	- Column Classes
+	- Gallery
+- Common
+	- Avatars
+	- Genesis
+	- Search Form
+	- Titles
+	- WordPress
+- Header
+	- Before Header
+	- Site Header
+	- Title Area
+	- Widget Area
+	- Hero Section
+- Menus
+	- Menus
+	- Sub Menus
+	- Specific Menus
+	- Menu Toggles
+- Content
+	- Entries
+	- Entry Meta
+	- Pagination
+	- Comments
+- Sidebars
+	- Widgets
+	- Sidebars
+- Footer
+	- Site Footer
+	- Footer Widgets
+- Plugins
+	- Simple Social Icons
+	- Gravity Forms
+- Home
+	- Front Page
+	- Custom Header
+- Print
+	- Print Styles
+*/
+
+@import 'utilities';
+@import 'reset';
+@import 'defaults';
+@import 'layout';
+@import 'common';
+@import 'header';
+@import 'menus';
+@import 'content';
+@import 'sidebars';
+@import 'footer';
+@import 'plugins';
+@import 'home';
+@import 'woocommerce';
+@import 'print';
