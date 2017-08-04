@@ -215,3 +215,4 @@ include_once( get_stylesheet_directory() . '/includes/menus.php' );
 include_once( get_stylesheet_directory() . '/includes/sidebars.php' );
 include_once( get_stylesheet_directory() . '/includes/customize.php' );
 include_once( get_stylesheet_directory() . '/includes/plugins.php' );
+include_once( get_stylesheet_directory() . '/includes/custom-functions.php' );
