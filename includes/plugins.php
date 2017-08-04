@@ -46,20 +46,8 @@ function starter_register_required_plugins() {
 	);
 
 	$plugins[] = array(
-		'name'      => 'Widget Importer & Exporter',
-		'slug'      => 'widget-importer-exporter',
-		'required'  => false,
-	);
-
-	$plugins[] = array(
 		'name'      => 'WP Featherlight',
 		'slug'      => 'wp-featherlight',
-		'required'  => false,
-	);
-
-	$plugins[] = array(
-		'name'      => 'WordPress Importer',
-		'slug'      => 'wordpress-importer',
 		'required'  => false,
 	);
 
